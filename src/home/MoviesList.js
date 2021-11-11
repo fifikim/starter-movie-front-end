@@ -15,8 +15,6 @@ function MoviesList() {
     return () => abortController.abort();
   }, []);
 
-  const nothing = 'nothing';
-
   const list = movies.map((movie) => (
     <article key={movie.movie_id} className="col-sm-12 col-md-6 col-lg-3 my-2">
       <img
