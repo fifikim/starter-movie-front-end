@@ -10,7 +10,7 @@ function HeaderNav() {
     <div className="container col-10">
       <ul className="nav justify-content-start" style={style}>
         <li className="nav-item d-none d-lg-block d-xl-block">
-          <Link className="nav-link m-2 font-weight-bold text-light" to="/">
+          <Link className="nav-link my-2 font-weight-bold text-light" to="/">
             <h1 className="h2"><strong>WeLoveMovies</strong></h1>
           </Link>
         </li>

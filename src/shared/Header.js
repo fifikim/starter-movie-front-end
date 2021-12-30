@@ -15,7 +15,7 @@ function Header() {
       style={style}
     >
       <HeaderNav />
-      <div className="container">
+      <div className="container col-10 text-center">
         <h1 className="display-4">Find your next favorite movie!</h1>
         <p className="lead">
           WeLoveMovies is your source for finding reviews of movies in
