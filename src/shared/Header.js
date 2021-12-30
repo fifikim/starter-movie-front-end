@@ -18,7 +18,7 @@ function Header() {
       <div className="container">
         <h1 className="display-4">Find your next favorite movie!</h1>
         <p className="lead">
-          <em>WeLoveMovies</em> is your source for finding reviews of movies in
+          WeLoveMovies is your source for finding reviews of movies in
           theatres near you.
         </p>
       </div>
